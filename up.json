@@ -1,0 +1,7 @@
+{
+  "name": "ping",
+  "profile": "apex",
+  "regions": [
+    "ap-northeast-1"
+  ]
+}
